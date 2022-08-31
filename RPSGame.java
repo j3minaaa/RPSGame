@@ -1,11 +1,6 @@
 import java.util.Scanner;
 /*
-* @author Jemina Ubaldo
-* ITSC1212-Mazunder
-* @version 1.0
-* @since 2021-09-21
-* Lab 4
-* Programming Fundamentals in Lab 4 RockPaperScissors Part C
+* RockPaperScissors 
 */
 public class RPSGame {
 
